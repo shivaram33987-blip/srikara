@@ -1,0 +1,10 @@
+{
+  "name": "frontend-srikara-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix Srikara-hospital",
+    "build": "npm run build --prefix Srikara-hospital",
+    "preview": "npm run preview --prefix Srikara-hospital",
+    "deploy": "npm run deploy --prefix Srikara-hospital"
+  }
+}
